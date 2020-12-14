@@ -1,2 +1,10 @@
 # ScienceFair
- Used for the science fair project of 2020
+ clone repo with http
+ Install the latest version of python >= 3.6
+ On command install pip, if not already installed.
+ Navigate to folded directory
+ py -m pip install requirements.txt
+ Thats it!
+ 
+ Now you can run the python files as normal using python path/to/script
+ 
